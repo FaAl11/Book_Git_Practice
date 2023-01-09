@@ -1,0 +1,12 @@
+I am now adding a new file diretly to the remote repository.
+
+To check if the remote has any changes that my local repository, I will then FETCH IT on intelliJ
+
+○ Fetch will bring the new data without merging to the local project
+
+To update my local repository with the new added file, from the remote I will pull it
+
+○ Pulling is more flexible with branches, and allows fetching and merging at the
+same time. We will talk about branches next class
+
+● Updating will apply changes to the same branch
